@@ -1,2 +1,2 @@
 # odin-recipe
-Recipes website using only HTML
+Toy recipes website using only HTML
